@@ -21,6 +21,7 @@ Yeah, me too. So I made this thing to fix that lol. :P
 
 - 🧬 It's just Python code (with help from AI ;p ) that just chills on your screen reminding you to actually get stuff done!  
 - 🐍 Make sure your Windows has **PYTHON INSTALLED**.
+  https://youtu.be/4LB60VEClQ4
 
 ## 4. HOW TO USE IT 🖱
 
